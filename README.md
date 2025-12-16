@@ -24,3 +24,10 @@ Validate updated user login
 Admin login
 Logout validation
 Updated user login verification
+
+**How to Run the Test Cases**
+Run using TestNG XML
+Navigate to: src/test/resources/OrangeHRMTestNG.xml
+
+Run Individual Test Class
+Navigate to: src/test/java/OrangeHRMtest/UserManagementTests.java
